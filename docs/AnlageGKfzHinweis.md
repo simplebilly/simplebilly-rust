@@ -1,0 +1,13 @@
+# AnlageGKfzHinweis
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**bezeichnung** | **String** |  | 
+**kennzeichen** | **String** |  | 
+**privat_anteil_prozent** | **String** |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
